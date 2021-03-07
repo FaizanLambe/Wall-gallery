@@ -1,0 +1,19 @@
+img{
+    height: 275px;
+    width: auto;
+    padding: 10px;
+    transition: 1s;
+}
+
+img:hover{
+    filter: grayscale(1);
+    transform: scale(1.1);
+}
+
+.header{
+    text-align: center;
+}
+
+.gallery{
+    text-align: center;
+}
